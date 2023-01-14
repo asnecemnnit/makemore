@@ -1,1 +1,0 @@
-@asnecemnnit - Created a separate .gitconfig for Personal/Github
