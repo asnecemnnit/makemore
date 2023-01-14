@@ -1,1 +1,1 @@
-@asnecemnnit - GlobalProtect disconnected
+@asnecemnnit - Created a separate .gitconfig for Personal/Github
